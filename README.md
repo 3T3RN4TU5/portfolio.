@@ -13,6 +13,8 @@ A fast, dark-themed single-page portfolio that showcases my projects, skills and
 - Project cards with highlights, tech stack, live demo and source links
 
 ![Portfolio hero: Hi, I'm Jeevan. Data, ML & Full-Stack Developer](docs/screenshot.jpg)
+
+![Animated demo: scrolling through the portfolio](docs/demo.gif)
 - Optional `mailto:` contact form with validation (no backend or third-party service required)
 - SEO: metadata, Open Graph tags, `sitemap.xml`, `robots.txt`, SVG app icon
 - Respects `prefers-reduced-motion`; fully responsive with a mobile menu
